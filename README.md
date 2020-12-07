@@ -10,8 +10,8 @@ List 2
 * item 2
 
 Confused Matrix
-     |True|False
------|----|----
+Label|True|False
+------------|------------|------------
 True |TP|FP
 False|FN|TN
 
